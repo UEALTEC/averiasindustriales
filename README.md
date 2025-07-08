@@ -61,12 +61,5 @@ Media de duración de reparación por tipo de avería, útil para priorizar recu
 
 ---
 
-## 🚀 Cómo usar este proyecto
-
-1. Clona el repositorio:
-```bash
-git clone https://github.com/tu_usuario/proyecto_averias_industriales.git
-
-
 ## Autor
 Josep Oriol Escobar López
